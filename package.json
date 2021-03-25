@@ -1,6 +1,6 @@
 {
   "name": "acarkre",
-  "version": "3.6.9",
+  "version": "3.6.10.1",
   "description": "ACAR Küfür ve Reklam Engelleme Paketi",
   "main": "acar.js",
   "scripts": {
@@ -14,9 +14,6 @@
     "v12 discord küfür engeli",
     "discord.js"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@acarfx"
-  },
   "author": "acarfx",
   "license": "MIT",
   "repository": {
@@ -26,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/acarfx/acarkre/issues"
   },
-  "homepage": "https://github.com/acarfx/acarkre#readme"
+  "homepage": "https://github.com/acarfx/acarkre#readme",
+  "dependencies": {}
 }
