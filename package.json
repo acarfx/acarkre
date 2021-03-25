@@ -1,6 +1,6 @@
 {
   "name": "acarkre",
-  "version": "3.6.10.1",
+  "version": "3.6.10.2",
   "description": "ACAR Küfür ve Reklam Engelleme Paketi",
   "main": "acar.js",
   "scripts": {
