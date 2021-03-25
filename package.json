@@ -1,6 +1,6 @@
 {
   "name": "acarkre",
-  "version": "3.6.7",
+  "version": "3.6.8",
   "description": "ACAR Küfür ve Reklam Engelleme Paketi",
   "main": "acar.js",
   "scripts": {
@@ -19,9 +19,6 @@
   },
   "author": "acarfx",
   "license": "MIT",
-  "dependencies": {
-    "@acarfx/acarkre": "3.6.7"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/acarfx/acarkre.git"
